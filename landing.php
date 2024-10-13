@@ -227,7 +227,7 @@
         <h2 class="text-2xl font-bold mb-4" x-show="language === 'ar'">مرحبًا بكم في جامعة العين العراقية</h2>
         <p class="mb-4" x-show="language === 'en'">This is a placeholder for the main content of your university website. You can add information about your university, latest news, events, and more.</p>
         <p class="mb-4" x-show="language === 'ar'">هذا هو المحتوى الرئيسي لموقع الجامعة. يمكنك إضافة معلومات حول الجامعة وآخر الأخبار والفعاليات والمزيد.</p>
-        <img src="https://placehold.co/800x400" alt="University Campus" class="w-full max-w-2xl mx-auto rounded-lg shadow-lg" />
+        <img src="resize_image.php?source=new.jpg&width=800&height=400" alt="University Campus" class="w-full max-w-2xl mx-auto rounded-lg shadow-lg" />
     </main>
 
     <!-- Footer -->
